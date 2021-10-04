@@ -21,6 +21,7 @@ const Service=()=>{
                        <div>Fee : {service.Fee}</div>
                        <div>Supervisor : {service.Teacher}</div>
                        <div>Starting Date : {service.start}</div>
+                       <button className="btn btn-primary my-2">Buy Now</button>
                    </div>
                     ) }
               </div>
