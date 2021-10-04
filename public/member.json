@@ -1,0 +1,27 @@
+[
+    {
+        "Name":"Shimul",
+        "image":"./images/pl1.jpg",
+        "age" : "20"
+    },
+    {
+        "Name":"Shakil",
+        "image":"./images/sk1.jpg",
+        "age" : "27"
+    },
+    {
+        "Name":"Shakil",
+        "image":"./images/sd1.jpg",
+        "age" : "28"
+    },
+    {
+        "Name":"Saimon",
+        "image":"./images/pl2.jpg",
+        "age" : "39"
+    },
+    {
+        "Name":"Shahin",
+        "image":"./images/sd2.jpg",
+        "age" : "29"
+    }
+]
